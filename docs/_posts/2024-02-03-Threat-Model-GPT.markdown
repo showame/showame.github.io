@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Threat Model GPT"
+title: "Threat Model GPT is out!"
 date: 2024-02-03 12:27:56 +0100
 categories: AI Security
-tags: GPT ThreatModeling
+tags: GPT ThreatModeling AI Security
 ---
 
-# About Threat Model GPT
 
-I've published a GPT for the first time, hurray!
+
+Yes, you got it right. I've taken the leap and published [one of my GPTs](https://chat.openai.com/g/g-aMj6Bj48D-threat-model-gpt).
+A few conversations with some colleagues and friends motivated me to open it to the public, and voilà, now it's out there in the GPT store! So let me tell you a little about it.
 
 Lately I have been busy with threat modeling, and while doing this I realized how great it would be to have a dedicated assistant, which is why I've built Threat Model GPT.
 
@@ -22,6 +23,7 @@ The GPT will interpret the diagram code and initiate a comprehensive analysis wi
 
 A current limitation is that only ChatGPT Plus and higher plans can use the GPT store, but I do hope that in the future OpenAI will consider changing this by extending to the free-tier users. Such a move would democratize the benefits of AI and in this particular case of threat modeling, enabling a wider audience to hone their security skills and practices.
 
-Thank you for reading to the end of this post!
+Thank you for reading until this point! Before moving on with your busy day, and if you have access to the GPT Store, be sure to check out my GPT: [https://chat.openai.com/g/g-aMj6Bj48D-threat-model-gpt](https://chat.openai.com/g/g-aMj6Bj48D-threat-model-gpt)
 
-Before moving on with your busy day, and if you have access to the GPT Store, be sure to check out my GPT: [https://chat.openai.com/g/g-aMj6Bj48D-threat-model-gpt](https://chat.openai.com/g/g-aMj6Bj48D-threat-model-gpt)
+Don't forget to let me know how that went! ;)
+
