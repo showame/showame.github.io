@@ -11,6 +11,8 @@ tags: GPT ThreatModeling AI Security
 Yes, you got it right. I've taken the leap and published [one of my GPTs](https://chat.openai.com/g/g-aMj6Bj48D-threat-model-gpt).
 A few conversations with some colleagues and friends motivated me to open it to the public, and voilà, now it's out there in the GPT store! So let me tell you a little about it.
 
+![Threat Model GPT](/assets/images/threat-model-gpt.png)
+
 Lately I have been busy with threat modeling, and while doing this I realized how great it would be to have a dedicated assistant, which is why I've built Threat Model GPT.
 
 In the realm of IT, the concept of security often presents itself as a daunting challenge. For many, it remains an elusive aspect of their operations, typically assigned to the already burdened shoulders of security teams. In less fortunate scenarios, it's either indefinitely deferred or neglected altogether.
